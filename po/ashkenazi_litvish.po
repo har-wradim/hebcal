@@ -9,14 +9,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: hebcal-bugs@sadinoff.com\n"
 "POT-Creation-Date: 2015-12-30 14:54-0500\n"
 "PO-Revision-Date: 2016-12-29 00:21+0200\n"
-"Language: ashkenazic_standard\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: har-wradim <jaera@yandex.com>\n"
 "Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ashkenazic_litvish\n"
 "X-Generator: Poedit 1.5.4\n"
 
+# "Language: he_IL\n"
 #: ../dafyomi.c:26
 msgid "Berachot"
 msgstr "Brochos"
@@ -60,7 +61,7 @@ msgstr "Megillo"
 
 #: ../dafyomi.c:37
 msgid "Moed Katan"
-msgstr "Moyed Koton"
+msgstr "Meyed Koton"
 
 #: ../dafyomi.c:38
 msgid "Chagigah"
@@ -84,7 +85,7 @@ msgstr "Nozir"
 
 #: ../dafyomi.c:43
 msgid "Sotah"
-msgstr "Soyto"
+msgstr "Seito"
 
 #: ../dafyomi.c:44
 msgid "Gitin"
@@ -120,11 +121,11 @@ msgstr "Shvuos"
 
 #: ../dafyomi.c:52
 msgid "Avodah Zarah"
-msgstr "Avoydo Zoro"
+msgstr "Aveydo Zoro"
 
 #: ../dafyomi.c:53
 msgid "Horayot"
-msgstr "Hoyroyos"
+msgstr "Heiroyos"
 
 #: ../dafyomi.c:54
 msgid "Zevachim"
@@ -140,7 +141,7 @@ msgstr "Chullin"
 
 #: ../dafyomi.c:57
 msgid "Bechorot"
-msgstr "Bchoyros"
+msgstr "Bcheiros"
 
 #: ../dafyomi.c:58
 msgid "Arachin"
@@ -177,7 +178,7 @@ msgstr "Niddo"
 #: ../dafyomi.c:141
 #, c-format
 msgid "Daf Yomi: %s %d"
-msgstr "Daf Yoimi: %s %d"
+msgstr "Daf Yeimi: %s %d"
 
 #: ../holidays.c:380
 msgid "Unable to allocate memory for holiday."
@@ -245,7 +246,7 @@ msgid "Bamidbar"
 msgstr "Bamidbor"
 
 msgid "Bechukotai"
-msgstr "Bechukoysai"
+msgstr "Bechukeisai"
 
 msgid "Beha'alotcha"
 msgstr "Bahaaloscho"
@@ -260,7 +261,7 @@ msgid "Beshalach"
 msgstr "Beshalach"
 
 msgid "Bo"
-msgstr "Boy"
+msgstr "Bei"
 
 msgid "Chayei Sara"
 msgstr "Chayei Soro"
@@ -281,7 +282,7 @@ msgid "Ha'Azinu"
 msgstr "Haazinu"
 
 msgid "Kedoshim"
-msgstr "Kdoyshim"
+msgstr "Kdeishim"
 
 msgid "Ki Tavo"
 msgstr "Ki-Sovo"
@@ -293,7 +294,7 @@ msgid "Ki Tisa"
 msgstr "Ki-Siso"
 
 msgid "Korach"
-msgstr "Koyrach"
+msgstr "Keirach"
 
 msgid "Lech-Lecha"
 msgstr "Lech-Lecho"
@@ -305,7 +306,7 @@ msgid "Matot"
 msgstr "Matos"
 
 msgid "Metzora"
-msgstr "Metzoyro"
+msgstr "Metzeiro"
 
 msgid "Miketz"
 msgstr "Mikeitz"
@@ -320,7 +321,7 @@ msgid "Nitzavim"
 msgstr "Nitzovim"
 
 msgid "Noach"
-msgstr "Noyach"
+msgstr "Neiach"
 
 msgid "Pekudei"
 msgstr "Pkudey"
@@ -335,7 +336,7 @@ msgid "Sh'lach"
 msgstr "Shlach"
 
 msgid "Shemot"
-msgstr "Shmoys"
+msgstr "Shmeis"
 
 msgid "Shmini"
 msgstr "Shmini"
@@ -392,7 +393,7 @@ msgid "Vayishlach"
 msgstr "Vayishlach"
 
 msgid "Vezot Haberakhah"
-msgstr "Zoys Habrocho"
+msgstr "Zeis Habrocho"
 
 msgid "Yitro"
 msgstr "Yisro"
@@ -434,7 +435,7 @@ msgid "Chanukah: 8th Day"
 msgstr "Chanukko: 8th Day"
 
 msgid "Days of the Omer"
-msgstr "Oymer"
+msgstr "Eimer"
 
 msgid "Erev Pesach"
 msgstr "Erev Peisach"
@@ -449,7 +450,7 @@ msgid "Erev Shavuot"
 msgstr "Erev Shvuos"
 
 msgid "Erev Simchat Torah"
-msgstr "Erev Simchas Toyro"
+msgstr "Erev Simchas Teiro"
 
 msgid "Erev Sukkot"
 msgstr "Erev Sukkos"
@@ -464,7 +465,7 @@ msgid "Havdalah"
 msgstr "Havdolo"
 
 msgid "Lag BaOmer"
-msgstr "Lag Boymer"
+msgstr "Lag Beimer"
 
 msgid "Leil Selichot"
 msgstr "Slichos"
@@ -509,7 +510,7 @@ msgid "Purim Katan"
 msgstr "Purim Koton"
 
 msgid "Rosh Chodesh %s"
-msgstr "Rosh Choydesh %s"
+msgstr "Rosh Cheidesh %s"
 
 msgid "Adar"
 msgstr "Odor"
@@ -563,13 +564,13 @@ msgid "Shabbat Chazon"
 msgstr "Shabbos Chazon"
 
 msgid "Shabbat HaChodesh"
-msgstr "Shabbos HaChoydesh"
+msgstr "Shabbos HaCheidesh"
 
 msgid "Shabbat HaGadol"
 msgstr "Shabbos HaGodol"
 
 msgid "Shabbat Machar Chodesh"
-msgstr "Shabbos Mochor Choydesh"
+msgstr "Shabbos Mochor Cheidesh"
 
 msgid "Shabbat Nachamu"
 msgstr "Shabbos Nachamu"
@@ -578,7 +579,7 @@ msgid "Shabbat Parah"
 msgstr "Shabbos Poro"
 
 msgid "Shabbat Rosh Chodesh"
-msgstr "Shabbos Rosh Choydesh"
+msgstr "Shabbos Rosh Cheidesh"
 
 msgid "Shabbat Shekalim"
 msgstr "Shabbos Shkolim"
@@ -608,7 +609,7 @@ msgid "Sigd"
 msgstr "Sigd"
 
 msgid "Simchat Torah"
-msgstr "Simchas Toyro"
+msgstr "Simchas Teiro"
 
 msgid "Sukkot"
 msgstr "Sukkos"
@@ -635,7 +636,7 @@ msgid "Sukkot VI (CH''M)"
 msgstr "Sukkos VI (CH''M)"
 
 msgid "Sukkot VII (Hoshana Raba)"
-msgstr "Sukkos VII (Hoyshano Rabo)"
+msgstr "Sukkos VII (Heishano Rabo)"
 
 # Tonis Bchoros
 msgid "Ta'anit Bechorot"
