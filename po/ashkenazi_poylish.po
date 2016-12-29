@@ -8,18 +8,18 @@ msgstr ""
 "Project-Id-Version: hebcal 4.2\n"
 "Report-Msgid-Bugs-To: hebcal-bugs@sadinoff.com\n"
 "POT-Creation-Date: 2015-12-30 14:54-0500\n"
-"PO-Revision-Date: 2016-12-29 22:41+0200\n"
+"PO-Revision-Date: 2016-12-29 23:01+0200\n"
+"Language: ashkenazic_poylish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: har-wradim <jaera@yandex.com>\n"
 "Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: ashkenazic_litvish\n"
 "X-Generator: Poedit 1.5.4\n"
 
 #: ../dafyomi.c:26
 msgid "Berachot"
-msgstr "Brochos"
+msgstr "Bruchos"
 
 #: ../dafyomi.c:27
 msgid "Shabbat"
@@ -27,27 +27,27 @@ msgstr "Shabbos"
 
 #: ../dafyomi.c:28
 msgid "Eruvin"
-msgstr "Eiruvin"
+msgstr "Airivin"
 
 #: ../dafyomi.c:29
 msgid "Pesachim"
-msgstr "Psochim"
+msgstr "Psuchim"
 
 #: ../dafyomi.c:30
 msgid "Shekalim"
-msgstr "Shkolim"
+msgstr "Shkulim"
 
 #: ../dafyomi.c:31
 msgid "Yoma"
-msgstr "Yumo"
+msgstr "Yimu"
 
 #: ../dafyomi.c:32
 msgid "Sukkah"
-msgstr "Sukko"
+msgstr "Sikku"
 
 #: ../dafyomi.c:33
 msgid "Beitzah"
-msgstr "Beitzo"
+msgstr "Baitzu"
 
 #: ../dafyomi.c:35
 msgid "Taanit"
@@ -55,35 +55,36 @@ msgstr "Taanis"
 
 #: ../dafyomi.c:36
 msgid "Megillah"
-msgstr "Megillo"
+msgstr "Megillu"
 
+# ?
 #: ../dafyomi.c:37
 msgid "Moed Katan"
-msgstr "Meyed Koton"
+msgstr "Moyed Koton"
 
 #: ../dafyomi.c:38
 msgid "Chagigah"
-msgstr "Chagigo"
+msgstr "Chagigu"
 
 #: ../dafyomi.c:39
 msgid "Yevamot"
-msgstr "Yevomos"
+msgstr "Yevumos"
 
 #: ../dafyomi.c:40
 msgid "Ketubot"
-msgstr "Ksubos"
+msgstr "Ksibos"
 
 #: ../dafyomi.c:41
 msgid "Nedarim"
-msgstr "Nedorim"
+msgstr "Nedurim"
 
 #: ../dafyomi.c:42
 msgid "Nazir"
-msgstr "Nozir"
+msgstr "Nuzir"
 
 #: ../dafyomi.c:43
 msgid "Sotah"
-msgstr "Seito"
+msgstr "Soytu"
 
 #: ../dafyomi.c:44
 msgid "Gitin"
@@ -91,19 +92,19 @@ msgstr "Gitin"
 
 #: ../dafyomi.c:45
 msgid "Kiddushin"
-msgstr "Kiddushin"
+msgstr "Kiddishin"
 
 #: ../dafyomi.c:46
 msgid "Baba Kamma"
-msgstr "Bovo Kamo"
+msgstr "Buvu Kamu"
 
 #: ../dafyomi.c:47
 msgid "Baba Metzia"
-msgstr "Bovo Metzio"
+msgstr "Buvu Metziu"
 
 #: ../dafyomi.c:48
 msgid "Baba Batra"
-msgstr "Bovo Basro"
+msgstr "Buvu Basru"
 
 #: ../dafyomi.c:49
 msgid "Sanhedrin"
@@ -115,39 +116,39 @@ msgstr "Makkos"
 
 #: ../dafyomi.c:51
 msgid "Shevuot"
-msgstr "Shvuos"
+msgstr "Shvios"
 
 #: ../dafyomi.c:52
 msgid "Avodah Zarah"
-msgstr "Aveydo Zoro"
+msgstr "Avoydu Zuru"
 
 #: ../dafyomi.c:53
 msgid "Horayot"
-msgstr "Heiroyos"
+msgstr "Hoyroyos"
 
 #: ../dafyomi.c:54
 msgid "Zevachim"
-msgstr "Zvochim"
+msgstr "Zvuchim"
 
 #: ../dafyomi.c:55
 msgid "Menachot"
-msgstr "Menochos"
+msgstr "Menuchos"
 
 #: ../dafyomi.c:56
 msgid "Chullin"
-msgstr "Chullin"
+msgstr "Chillin"
 
 #: ../dafyomi.c:57
 msgid "Bechorot"
-msgstr "Bcheiros"
+msgstr "Bchoyros"
 
 #: ../dafyomi.c:58
 msgid "Arachin"
-msgstr "Arochin"
+msgstr "Aruchin"
 
 #: ../dafyomi.c:59
 msgid "Temurah"
-msgstr "Tmuro"
+msgstr "Tmiru"
 
 #: ../dafyomi.c:60
 msgid "Keritot"
@@ -155,7 +156,7 @@ msgstr "Krisos"
 
 #: ../dafyomi.c:61
 msgid "Meilah"
-msgstr "Meilo"
+msgstr "Meilu"
 
 #: ../dafyomi.c:62
 msgid "Kinnim"
@@ -163,7 +164,7 @@ msgstr "Kinnim"
 
 #: ../dafyomi.c:63
 msgid "Tamid"
-msgstr "Tomid"
+msgstr "Tumid"
 
 #: ../dafyomi.c:64
 msgid "Midot"
@@ -171,12 +172,12 @@ msgstr "Midos"
 
 #: ../dafyomi.c:65
 msgid "Niddah"
-msgstr "Niddo"
+msgstr "Niddu"
 
 #: ../dafyomi.c:141
 #, c-format
 msgid "Daf Yomi: %s %d"
-msgstr "Daf Yeimi: %s %d"
+msgstr "Daf Yoymi: %s %d"
 
 #: ../holidays.c:380
 msgid "Unable to allocate memory for holiday."
@@ -235,52 +236,52 @@ msgid "Parashat"
 msgstr "Parshas"
 
 msgid "Achrei Mot"
-msgstr "Achrei"
+msgstr "Achrai"
 
 msgid "Balak"
-msgstr "Bolok"
+msgstr "Bulok"
 
 msgid "Bamidbar"
 msgstr "Bamidbor"
 
 msgid "Bechukotai"
-msgstr "Bechukeisai"
+msgstr "Bechikoysai"
 
 msgid "Beha'alotcha"
-msgstr "Bahaaloscho"
+msgstr "Bahaaloschu"
 
 msgid "Behar"
 msgstr "Behar"
 
 msgid "Bereshit"
-msgstr "Breishis"
+msgstr "Braishis"
 
 msgid "Beshalach"
 msgstr "Beshalach"
 
 msgid "Bo"
-msgstr "Bei"
+msgstr "Boy"
 
 msgid "Chayei Sara"
-msgstr "Chayei Soro"
+msgstr "Chayei Suru"
 
 msgid "Chukat"
-msgstr "Chukas"
+msgstr "Chikas"
 
 msgid "Devarim"
-msgstr "Dvorim"
+msgstr "Dvurim"
 
 msgid "Eikev"
-msgstr "Eikev"
+msgstr "Aikev"
 
 msgid "Emor"
-msgstr "Emor"
+msgstr "Emoyr"
 
 msgid "Ha'Azinu"
-msgstr "Haazinu"
+msgstr "Haazini"
 
 msgid "Kedoshim"
-msgstr "Kdeishim"
+msgstr "Kdoyshim"
 
 msgid "Ki Tavo"
 msgstr "Ki-Sovo"
@@ -292,7 +293,7 @@ msgid "Ki Tisa"
 msgstr "Ki-Siso"
 
 msgid "Korach"
-msgstr "Keirach"
+msgstr "Koyrach"
 
 msgid "Lech-Lecha"
 msgstr "Lech-Lecho"
@@ -304,7 +305,7 @@ msgid "Matot"
 msgstr "Matos"
 
 msgid "Metzora"
-msgstr "Metzeiro"
+msgstr "Metzoyro"
 
 msgid "Miketz"
 msgstr "Mikeitz"
@@ -319,7 +320,7 @@ msgid "Nitzavim"
 msgstr "Nitzovim"
 
 msgid "Noach"
-msgstr "Neiach"
+msgstr "Noyach"
 
 msgid "Pekudei"
 msgstr "Pkudey"
@@ -334,7 +335,7 @@ msgid "Sh'lach"
 msgstr "Shlach"
 
 msgid "Shemot"
-msgstr "Shmeis"
+msgstr "Shmoys"
 
 msgid "Shmini"
 msgstr "Shmini"
@@ -391,7 +392,7 @@ msgid "Vayishlach"
 msgstr "Vayishlach"
 
 msgid "Vezot Haberakhah"
-msgstr "Zeis Habrocho"
+msgstr "Zoys Habrocho"
 
 msgid "Yitro"
 msgstr "Yisro"
@@ -433,7 +434,7 @@ msgid "Chanukah: 8th Day"
 msgstr "Chanukko: 8th Day"
 
 msgid "Days of the Omer"
-msgstr "Eimer"
+msgstr "Oymer"
 
 msgid "Erev Pesach"
 msgstr "Erev Peisach"
@@ -448,7 +449,7 @@ msgid "Erev Shavuot"
 msgstr "Erev Shvuos"
 
 msgid "Erev Simchat Torah"
-msgstr "Erev Simchas Teiro"
+msgstr "Erev Simchas Toyro"
 
 msgid "Erev Sukkot"
 msgstr "Erev Sukkos"
@@ -463,7 +464,7 @@ msgid "Havdalah"
 msgstr "Havdolo"
 
 msgid "Lag BaOmer"
-msgstr "Lag Beimer"
+msgstr "Lag Boymer"
 
 msgid "Leil Selichot"
 msgstr "Slichos"
@@ -508,7 +509,7 @@ msgid "Purim Katan"
 msgstr "Purim Koton"
 
 msgid "Rosh Chodesh %s"
-msgstr "Rosh Cheidesh %s"
+msgstr "Rosh Choydesh %s"
 
 msgid "Adar"
 msgstr "Odor"
@@ -562,13 +563,13 @@ msgid "Shabbat Chazon"
 msgstr "Shabbos Chazon"
 
 msgid "Shabbat HaChodesh"
-msgstr "Shabbos HaCheidesh"
+msgstr "Shabbos HaChoydesh"
 
 msgid "Shabbat HaGadol"
 msgstr "Shabbos HaGodol"
 
 msgid "Shabbat Machar Chodesh"
-msgstr "Shabbos Mochor Cheidesh"
+msgstr "Shabbos Mochor Choydesh"
 
 msgid "Shabbat Nachamu"
 msgstr "Shabbos Nachamu"
@@ -577,7 +578,7 @@ msgid "Shabbat Parah"
 msgstr "Shabbos Poro"
 
 msgid "Shabbat Rosh Chodesh"
-msgstr "Shabbos Rosh Cheidesh"
+msgstr "Shabbos Rosh Choydesh"
 
 msgid "Shabbat Shekalim"
 msgstr "Shabbos Shkolim"
@@ -607,7 +608,7 @@ msgid "Sigd"
 msgstr "Sigd"
 
 msgid "Simchat Torah"
-msgstr "Simchas Teiro"
+msgstr "Simchas Toyro"
 
 msgid "Sukkot"
 msgstr "Sukkos"
@@ -634,7 +635,7 @@ msgid "Sukkot VI (CH''M)"
 msgstr "Sukkos VI (CH''M)"
 
 msgid "Sukkot VII (Hoshana Raba)"
-msgstr "Sukkos VII (Heishano Rabo)"
+msgstr "Sukkos VII (Hoyshano Rabo)"
 
 msgid "Ta'anit Bechorot"
 msgstr "Taanis Bchoros"
